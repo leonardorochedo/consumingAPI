@@ -1,0 +1,26 @@
+{
+  "name": "consumingapi",
+  "version": "1.0.0",
+  "description": "Projeto de Criar / Consumir uma API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardorochedo/consumingAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardorochedo/consumingAPI/issues"
+  },
+  "homepage": "https://github.com/leonardorochedo/consumingAPI#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
